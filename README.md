@@ -1,3 +1,4 @@
-# ELS - Enterprise Linux/EuroLinux Sources - help2man 
+# ELS - Enterprise Linux/EuroLinux Sources - help2man
+ 
 ## Usage:
-  Checkout branch or tag.
+  Checkout branch or tag. Use `make sources` to recreate  SOURCE0 archive.
