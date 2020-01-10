@@ -5,7 +5,7 @@
 Name:           help2man
 Summary:        Create simple man pages from --help output
 Version:        1.41.1
-Release:        2%{?dist}
+Release:        3%{?dist}
 Group:          Development/Tools
 License:        GPLv3+
 URL:            http://www.gnu.org/software/help2man
@@ -61,6 +61,9 @@ fi
 %endif
 
 %changelog
+* Fri Dec 27 2013 Daniel Mach <dmach@redhat.com> - 1.41.1-3
+- Mass rebuild 2013-12-27
+
 * Thu Feb 14 2013 Fedora Release Engineering <rel-eng@lists.fedoraproject.org> - 1.41.1-2
 - Rebuilt for https://fedoraproject.org/wiki/Fedora_19_Mass_Rebuild
 
